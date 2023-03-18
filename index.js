@@ -6,3 +6,6 @@ const user = new User("Joao", "Andrade")
 user.active = false
 console.log(user.showFullName())
 console.log(user.active)
+
+const admin = new Admin("Daniel", "Queiroz")
+console.log(admin.showFullName())

@@ -8,6 +8,10 @@ class Admin extends User {
     createCourse(courseName) {
         return `course ${courseName} successfully created!`
     }
+
+    showFullName() {
+        return 'Not possible.'
+    }
 }
 
 export default Admin
