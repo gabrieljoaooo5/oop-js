@@ -1,0 +1,21 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "classAndInheritance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieljoaooo5/oop-js.git"
+  },
+  "keywords": [],
+  "author": "gabrieljaooo5",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieljoaooo5/oop-js/issues"
+  },
+  "homepage": "https://github.com/gabrieljoaooo5/oop-js#readme"
+}
