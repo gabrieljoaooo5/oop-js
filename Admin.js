@@ -6,8 +6,8 @@ class Admin extends User {
     }
 
     createCourse(courseName) {
-        return `course ${courseName} successfully created`
+        return `course ${courseName} successfully created!`
     }
 }
 
-console.log(new Admin("Joao", "Andrade").showFullName())
+export default Admin

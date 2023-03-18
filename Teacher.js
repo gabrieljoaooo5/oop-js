@@ -10,4 +10,4 @@ class Teacher extends User {
     }
 }
 
-console.log(new Teacher("Joao", "Andrade").approveStudent("Pedro"))
+export default Teacher
